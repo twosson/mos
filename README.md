@@ -1,1 +1,3 @@
-# mos
+# GoFrame Project
+
+https://goframe.org
